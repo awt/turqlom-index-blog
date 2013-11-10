@@ -17,8 +17,8 @@ __It serves as a bridge between Bitmessage and the internet at large.__  I belie
 * Anonymously post to your own blog via Bitmessage
 * Public index of posts that anyone can view without previously knowing your Bitmessage address in order to provide plausible deniability
 
-#### Cost
-This site is currently free to use.  That said, it is not free for me to maintain.  In the future, I may charge a nominal fee per post to help offset costs.  For the time being, donations are appreciated.  
+#### Notes
+This service is currently free to use.  That said, it is not free for me to maintain.  In the future, I may charge a nominal fee per post to help offset costs.  For the time being, donations are appreciated.  
 
 Please send donations in Bitcoin to: 1KFwsgfViJAhKN5u8TXooJ9bVs1vKthEHA
 
