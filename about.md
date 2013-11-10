@@ -15,11 +15,12 @@ __It serves as a bridge between Bitmessage and the internet at large.__  I belie
 
 #### Security Features
 * Anonymously post to your own blog via Bitmessage
-* Posts are published to a public index page that anyone can view without previously knowing your Bitmessage address.  This means that if you visit your blog, it is plausably deniable that you were the one who visited it.
+* Public index of posts that anyone can view without previously knowing your Bitmessage address in order to provide plausible deniability
 
-#### Note to Hackers
+_Note to Hackers:_ There isn't much point in hacking this service.  There is no database, and no identifying information is ever receieved by the service.
 
-There isn't much point in hacking this service.  There is no database, and no identifying information is ever receieved by the service.
+This site is currently free to use.  That said, it is not free for me to maintain.  Donations are appreciated.  In the future, I may charge a nominal fee per post to help offset costs.
 
+Please send donations in Bitcoin to: 1KFwsgfViJAhKN5u8TXooJ9bVs1vKthEHA
 
 
