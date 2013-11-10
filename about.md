@@ -1,11 +1,9 @@
 ---
-layout: post
+layout: post-no-feature
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
-image:
-  feature: soft-trees.jpg
+title: About the Turqlom
+description: Turqlom is an anonymous blogging service based on Bitmessage and Jekyll.
+tags: []
 ---
 
 This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
