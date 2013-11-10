@@ -1,24 +1,24 @@
 ---
 layout: post-no-feature
 permalink: /about/index.html
-title: About the Turqlom
+title: About Turqlom
 description: Turqlom is an anonymous blogging service based on Bitmessage and Jekyll.
 tags: []
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+This site serves a few main purposes.
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+#### It allows anyone to publish a blog anonymously.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+Anonymity is becoming harder to achieve on the web.  As we now know, if you use any sort of centralized service, be it web mail or a blogging platform, you must assume that your identity is known not only to the service provider, but to one or more intelligence, law enforcement, and government agencies.
+I believe that people can think and express themselves more freely if they are free of the threat of retribution from individuals or authorities.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+#### It serves as a bridge between Bitmessage and the internet at large.
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+I believe that Bitmessage is an important technology and I would like to see it more widely adopted.  This servie is an attempt to bring more attention to Bitmessage.
+
+#### Security Features
+* Anonymously post to your own blog via Bitmessage
+* Posts are published to a public index page that anyone can view without previously knowing your Bitmessage address.  This means that if you visit your blog, it is plausably deniable that you were the one who visited it.
+
+
