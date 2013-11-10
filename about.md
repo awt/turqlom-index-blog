@@ -11,7 +11,7 @@ This site serves a few main purposes.
 __It allows anyone to publish a blog anonymously.__  Anonymity is becoming harder to achieve on the web.  As we now know, use of any sort of centralized service, be it web mail or a blogging platform, assures that your identity is known not only to the service provider, but to one or more intelligence, law enforcement, and government agencies, and is associated with your use.
 I believe that people can think and express themselves more freely if they are free of the threat of retribution from individuals or authorities.
 
-__It serves as a bridge between Bitmessage and the internet at large.__  I believe that Bitmessage is an important technology and I would like to see it more widely adopted.  This servie is an attempt to bring more attention to Bitmessage.
+__It serves as a bridge between Bitmessage and the internet at large.__  I believe that Bitmessage is an important technology and I would like to see it more widely adopted.  This service is an attempt to bring more attention to Bitmessage.
 
 #### Security Features
 * Anonymously post to your own blog via Bitmessage
