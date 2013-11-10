@@ -19,7 +19,7 @@ __It serves as a bridge between Bitmessage and the internet at large.__  I belie
 
 #### Getting Started
 
-1.  [Install Bitmessage](https://bitmessage.org/wiki/Main_Page)
+1.  [Install Bitmessage](https://bitmessage.org/wiki/Main_Page).
 2.  Send a message via Bitmessage to: BM-2cV4DdpE1xfXHDXzJ3JKCpsKZnnh6gi5EJ.  The subject of the message will appear as the title of the post.  
 
 #### Notes
