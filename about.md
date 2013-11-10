@@ -17,6 +17,11 @@ __It serves as a bridge between Bitmessage and the internet at large.__  I belie
 * Anonymously post to your own blog via Bitmessage
 * Public index of posts that anyone can view without previously knowing your Bitmessage address in order to provide plausible deniability
 
+#### Getting Started
+
+1.  [Install Bitmessage](https://bitmessage.org/wiki/Main_Page)
+2.  Send a message via Bitmessage to: BM-2cV4DdpE1xfXHDXzJ3JKCpsKZnnh6gi5EJ.  The subject of the message will appear as the title of the post.  
+
 #### Notes
 This service is currently free to use.  That said, it is not free for me to maintain.  In the future, I may charge a nominal fee per post to help offset costs.  For the time being, donations are appreciated.  
 
