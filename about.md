@@ -10,7 +10,7 @@ This site serves a few main purposes.
 
 #### It allows anyone to publish a blog anonymously.
 
-Anonymity is becoming harder to achieve on the web.  As we now know, if you use any sort of centralized service, be it web mail or a blogging platform, you must assume that your identity is known not only to the service provider, but to one or more intelligence, law enforcement, and government agencies.
+Anonymity is becoming harder to achieve on the web.  As we now know, use of any sort of centralized service, be it web mail or a blogging platform, assures that your identity is known not only to the service provider, but to one or more intelligence, law enforcement, and government agencies, and is associated with your use.
 I believe that people can think and express themselves more freely if they are free of the threat of retribution from individuals or authorities.
 
 #### It serves as a bridge between Bitmessage and the internet at large.
@@ -20,5 +20,10 @@ I believe that Bitmessage is an important technology and I would like to see it 
 #### Security Features
 * Anonymously post to your own blog via Bitmessage
 * Posts are published to a public index page that anyone can view without previously knowing your Bitmessage address.  This means that if you visit your blog, it is plausably deniable that you were the one who visited it.
+
+#### Note to Hackers
+
+There isn't much point in hacking this service.  There is no database, and no identifying information is ever receieved by the service.
+
 
 
