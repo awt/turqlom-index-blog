@@ -20,7 +20,7 @@ __It serves as a bridge between Bitmessage and the internet at large.__  I belie
 #### Getting Started
 
 1.  [Install Bitmessage](https://bitmessage.org/wiki/Main_Page).
-2.  Send a message via Bitmessage to: BM-2cV4DdpE1xfXHDXzJ3JKCpsKZnnh6gi5EJ.  The subject of the message will appear as the title of the post.  
+2.  Send a message via Bitmessage to: BM-2cV4DdpE1xfXHDXzJ3JKCpsKZnnh6gi5EJ.  The subject of the message will appear as the title of the post.  Your post will appear on the [www.turqlom.com](http://www.turqlom.com) home page.  You will then receive a response with a link to your post.
 
 #### Notes
 This service is currently free to use.  That said, it is not free for me to maintain.  In the future, I may charge a nominal fee per post to help offset costs.  For the time being, donations are appreciated.  
