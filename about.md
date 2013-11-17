@@ -15,7 +15,7 @@ Turqlom is a free anonymous blogging service based on Bitmessage and Jekyll.
 
     BM-2cV4DdpE1xfXHDXzJ3JKCpsKZnnh6gi5EJ
     
-    The subject of the message will appear as the title of the post.  Your post will appear at:
+    with the subject of the message as the title.  Your post will appear at:
     
     http://\<your bit message address\>.turqlom.com.s3-website-us-east-1.amazonaws.com
 
