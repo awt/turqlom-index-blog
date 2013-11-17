@@ -2,7 +2,7 @@
 layout: post-no-feature
 permalink: /about/index.html
 title: About Turqlom
-description: Turqlom is an anonymous blogging service based on Bitmessage and Jekyll.
+description: Turqlom is an anonymous blogging service based on Bitmessage.
 tags: []
 ---
 
