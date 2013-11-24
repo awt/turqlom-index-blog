@@ -6,8 +6,6 @@ description: Turqlom is an anonymous blogging service based on Bitmessage.
 tags: []
 ---
 
-Turqlom is a free anonymous blogging service based on Bitmessage and Jekyll.
-
 #### Getting Started
 
 1.  [Install Bitmessage](https://bitmessage.org/wiki/Main_Page).
@@ -17,7 +15,7 @@ Turqlom is a free anonymous blogging service based on Bitmessage and Jekyll.
     
     with the subject of the message as the title.  Your post will appear at:
     
-    http://\<your bit message address\>.turqlom.com.s3-website-us-east-1.amazonaws.com
+    http://www.turqlom.com/\<your bit message address\>
 
 
 #### Maintaining Your Anonymity
