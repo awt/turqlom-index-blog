@@ -15,7 +15,7 @@ tags: []
     
     with the subject of the message as the title.  Your post will appear at:
     
-    http://www.turqlom.com/\<your bit message address\>
+    http://www.turqlom.com/\<your bitmessage address\>
 
 
 #### Maintaining Your Anonymity
