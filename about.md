@@ -1,8 +1,8 @@
 ---
 layout: post-no-feature
 permalink: /about/index.html
-title: About Turqlom
-description: Turqlom is an anonymous blogging service based on Bitmessage.
+title: About DarkLogs
+description: DarkLogs is an anonymous blogging service based on Bitmessage.
 tags: []
 ---
 
@@ -15,7 +15,7 @@ tags: []
     
     with the subject of the message as the title.  Your post will appear at:
     
-    http://www.turqlom.com/\<your bitmessage address\>
+    http://www.darklogs.com/\<your bitmessage address\>
 
 
 #### Maintaining Your Anonymity
