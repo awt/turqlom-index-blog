@@ -11,7 +11,7 @@ tags: []
 1.  [Install Bitmessage](https://bitmessage.org/wiki/Main_Page).
 2.  Send a message via Bitmessage to:
 
-    BM-2cV4DdpE1xfXHDXzJ3JKCpsKZnnh6gi5EJ
+    BM-2cTUZmrFaypXnAR4DAXLbAb6KrFPRhGyEe
     
     with the subject of the message as the title.  Your post will appear at:
     
