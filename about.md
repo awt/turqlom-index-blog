@@ -37,6 +37,10 @@ tags: []
     
     For more details on these potential vulnerabilities, read the [Bitmessage Technical Paper](https://bitmessage.org/Bitmessage%20Technical%20Paper.pdf).
 
+##### Acknowledgements
+
+I'd like to thank Steve Dekorte for helping me come up with this idea and providing advice and design guidance along the way.
+
 _Note_:
 
 This service is provided for free but is not free to maintain.  Please send donations in Bitcoin to: 1KFwsgfViJAhKN5u8TXooJ9bVs1vKthEHA
