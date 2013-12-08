@@ -37,6 +37,12 @@ tags: []
     
     For more details on these potential vulnerabilities, read the [Bitmessage Technical Paper](https://bitmessage.org/Bitmessage%20Technical%20Paper.pdf).
 
+#### Contact
+
+News about the service is posted to the [DarkLogs Development Blog](http://www.darklogs.com/BM-2cWNaeQpc45G49NpZYgs5gH1nfZkvvnUGF).  The administrator can be contacted via Bitmessage at the address associated with the development blog, which is:
+
+BM-2cWNaeQpc45G49NpZYgs5gH1nfZkvvnUGF
+
 ##### Acknowledgements
 
 I'd like to thank Steve Dekorte for helping me come up with this idea and providing advice and design guidance along the way.
