@@ -680,6 +680,11 @@ header.site-header nav {
       -ms-transition: all 0.2s ease;
       transition: all 0.2s ease; }
 
+/* Pagination Links */
+.pagination {
+  width: 200px;
+  margin: 0 auto; }
+
 /* Footer Stuff */
 .push {
   height: 15px !important; }

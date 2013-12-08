@@ -549,6 +549,13 @@ header.site-header nav {
     }
 }
 
+/* Pagination Links */
+
+.pagination {
+    width: 200px;
+    margin: 0 auto;
+}
+
 /* Footer Stuff */
 .push {
     height: $footerHeight/4 !important;

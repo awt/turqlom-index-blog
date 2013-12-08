@@ -10,7 +10,6 @@
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="{{ post.base_url }}{{ post.url }}">{{ post.title }}</a></h1>
                         <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
-                        <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
                         <p class="">{{ post.address }}</p>
                     </div>
                   </li>
@@ -18,6 +17,19 @@
               </ol>
           </article>
         </section>
+    </div>
+
+    <div class="pagination">
+        {% if paginator.previous_page %}
+            <a href="/{% if paginator.previous_page > 1 %}page{{paginator.previous_page }} {% endif %}" class="previous">&laquo; prev</a>
+        {% else %}
+            <span class="previous">&laquo; previous</span>
+        {% endif %}
+        {% if paginator.next_page %}
+            <a href="/page{{ paginator.next_page }}" class="next">next &raquo;</a>
+        {% else %}
+            <span class="next ">next</span>
+        {% endif %}
     </div>
 
 {% include footer.html %}
