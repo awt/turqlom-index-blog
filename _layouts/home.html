@@ -9,8 +9,9 @@
                   <li>
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                         <h1><a href="{{ post.base_url }}{{ post.url }}">{{ post.title }}</a></h1>
+                        <p class=""><a href="{{ post.base_url }}">{{ post.address }}</a></p>
                         <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
-                        <p class="">{{ post.address }}</p>
+                        <p>{{ post.content }}</p>
                     </div>
                   </li>
                   {% endfor %}
