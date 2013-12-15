@@ -30,10 +30,10 @@ tags: []
 2.  Known Vulnerabilities of this Service
 
     * An entity with access to an internet backbone connection may be able to ascertain your general location.
-    * An entity with acces to network traffic originating from both the sending and receiving bitmessage clients
-      may be able to precicely identify you.
+    * An entity with access to network traffic originating from both the sending and receiving bitmessage clients
+      may be able to precisely identify you.
       
-    If you are concerned about your identity being revealed to an entity with these capabilities, you may want to consider using Bitmessage in conjuction with [Tor](https://www.torproject.org/).
+    If you are concerned about your identity being revealed to an entity with these capabilities, you may want to consider using Bitmessage in conjunction with [Tor](https://www.torproject.org/).
     
     For more details on these potential vulnerabilities, read the [Bitmessage Technical Paper](https://bitmessage.org/Bitmessage%20Technical%20Paper.pdf).
 
