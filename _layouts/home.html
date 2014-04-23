@@ -11,7 +11,8 @@
                     
                        <h1><a href="{{ post.base_url }}{{ post.url }}">{{ post.blog_title }}</a></h1>
                         <p class=""><a href="{{ post.base_url }}">{{ post.address }}</a></p>
-                        <p class="date" style="font-size: 15px">{{ post.date | date: "%b %d, %Y" }}</p>
+                        <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
+
                         <p>{{ post.content }}</p>
 		        <p style="font-size:12px; color:#777"> 
  			  To Add Comments: Send message to Darklogs with the subject: <br/>
