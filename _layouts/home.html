@@ -10,10 +10,13 @@
                     <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                     
                        <h1><a href="{{ post.base_url }}{{ post.url }}">{{ post.blog_title }}</a></h1>
-                        <p class=""><a href="{{ post.base_url }}">{{ post.address }}</a></p>
+                        <p class="">
+			  <a href="{{ post.base_url }}">{{ post.address }}</a>
+			</p>
                         <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
 
                         <p>{{ post.content }}</p>
+                        <p class="" style="font-size: 15px;"> Message ID: {{ post.msgid }} </p>
                         <p style="font-size:20px; color:#777">
                           {% case post.comment_count %}
 	                     {% when 0 %}
