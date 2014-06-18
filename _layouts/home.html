@@ -30,7 +30,11 @@
                           {% endcase %} 
                         </p>
 		        {% for c in post.comments %}
-  			   <p class="" style="font-size: 12px"><a href="{{ c.base_url }}">{{ c.address }}</a> ({{ c.received_at }}) <br /> Message ID: {{ c.msgid }} 
+  			   <p class="" style="font-size: 15px">
+			      <a href="{{ c.base_url }}">{{ c.address }}</a> ({{ c.received_at }}) 
+                           </p> 
+                           <p style="font-size: 12px"> 
+                             Message ID: {{ c.msgid }} 
 			   </p>
                            <p style="font-size:15px;">
    	 		     {{ c.content }}
