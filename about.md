@@ -17,6 +17,8 @@ tags: []
     
     http://www.darklogs.com/\[your bitmessage address\]
 
+3.  To Add Comments: send a message via Bitmessage to Darklogs with the subject: 
+    Comment @bm_address/message_id
 
 #### Maintaining Your Anonymity
 
